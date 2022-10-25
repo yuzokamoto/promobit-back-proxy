@@ -1,0 +1,2 @@
+### Get popular movies
+GET http://localhost:3003/movie/popular
